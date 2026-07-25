@@ -282,6 +282,4 @@ charging-station locations and the underlying map-based analysis.
 
 Provided as-is for educational and portfolio purposes. Swap in real data
 sources before using for actual municipal or utility planning decisions.
-=======
-# EV-Charging-Station-Recommendation-System
->>>>>>> 26df91e105bc4cf3e2a3b81f348eae7d62d2bda5
+
