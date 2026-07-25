@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔌 EV Charging Station Recommendation System
 
 A data-driven decision-support tool that analyzes **population density, traffic
@@ -6,9 +6,7 @@ volume, points-of-interest, income levels, and existing charging infrastructure*
 to recommend the best locations for **new EV charging stations** — visualized on
 an interactive map and controllable through a Streamlit dashboard.
 
-⭐⭐⭐⭐⭐ | `Python` `Pandas` `Scikit-learn` `Folium` `Streamlit`
 
----
 
 ## 1. Problem Statement
 
@@ -29,7 +27,7 @@ income, and existing stations), systematically **score every possible
 location** for how well it would serve unmet EV-charging demand, and then
 **select a spatially well-distributed shortlist** of the best new sites.
 
----
+
 
 ## 2. Solution Approach
 
